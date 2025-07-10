@@ -36,3 +36,5 @@ EOF
   sudo tar -xzvf redmine.tar.gz -C /var/www/html/
 
 SHELL
+
+end
