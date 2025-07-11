@@ -1,0 +1,9 @@
+
+# PostgreSQL configuration example
+production:
+  adapter: postgresql
+  database: redmine_production
+  host: localhost
+  username: redmine_production
+  password: "redmine"
+
